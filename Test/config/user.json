@@ -1,0 +1,9 @@
+{
+    "loanpro_users": {
+        "user": {
+            "email": "gilberto.sanchez@loanpro.io",
+            "password": "18zVefVE.pass",
+            "env":"Beta"
+        }
+    }
+}
